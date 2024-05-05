@@ -1,6 +1,6 @@
-# CAL-SP
+# MCAL
 
-Source code for "Contrastive Adversarial Learning for Rumor Detection based on Similarity-perserving".
+Source code for "融合多视图对比对抗学习的谣言检测算法".
 
 
 
